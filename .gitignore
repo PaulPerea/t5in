@@ -1,0 +1,7 @@
+ .project
+ .settings/
+ target/classes/META-INF/maven/pe.edu.cibertec/jpa_session04/pom.xml
+ target/classes/META-INF/maven/pe.edu.cibertec/jpa_session04/pom.properties
+ target/classes/META-INF/persistence.xml
+ target/classes/app/
+ .classpath
